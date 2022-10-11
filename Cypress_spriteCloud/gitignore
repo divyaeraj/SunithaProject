@@ -1,0 +1,16 @@
+# Logs
+
+# Runtime data
+
+# Files to Ignore
+
+
+
+# Dependency directory
+node_modules
+cypress/videos
+cypress/screenshots
+
+# Mac OS files
+.DS_Store
+
